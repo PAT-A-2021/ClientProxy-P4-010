@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6702ae81-c99b-4a56-9dc5-7a971ab0e711" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6dd98294-33af-490f-805f-85ad113b7067" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
@@ -22,10 +22,10 @@
     <MetadataSource Address="http://localhost:1907/mex/" Protocol="mex" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="746572c1-0326-4992-97f6-9d9f4b8bf9a5" SourceId="1" SourceUrl="http://localhost:1907/mex/" />
-    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="77f9226c-c2ba-4e65-b827-1f1bbb3c0e59" SourceId="1" SourceUrl="http://localhost:1907/mex/" />
-    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="30ce5cd9-3ab2-4f4c-9f87-61a9c5ef2cc2" SourceId="1" SourceUrl="http://localhost:1907/mex/" />
-    <MetadataFile FileName="ServiceMtk_P1_20190140010.xsd" MetadataType="Schema" ID="611bb69b-59c7-4c4c-a839-1306ddabaee1" SourceId="1" SourceUrl="http://localhost:1907/mex/" />
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="d2b2fe8c-b0a9-47df-b0c5-b71a8d5c3678" SourceId="1" SourceUrl="http://localhost:1907/mex/" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="9e47bfb8-16b6-496c-b815-c05118cf2af3" SourceId="1" SourceUrl="http://localhost:1907/mex/" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="9581425b-fd33-40d7-856d-d37f090fc61b" SourceId="1" SourceUrl="http://localhost:1907/mex/" />
+    <MetadataFile FileName="ServiceMtk_P1_20190140010.xsd" MetadataType="Schema" ID="d1652500-0355-479b-bd15-512081c2e41b" SourceId="1" SourceUrl="http://localhost:1907/mex/" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
